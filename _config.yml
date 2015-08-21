@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Robert Mattila
+tagline:          'PhD Student'
+description:      'PhD Student<br/>Automatic Control<br/>KTH'
+url:              http://rmattila.github.io
+baseurl:          /
+
+author:
+  name:           'Robert Mattila'
+  url:            https://rmattila.github.io
+
+paginate:         5
+
+# Custom vars
+cover_image:      /public/me2.png
+
