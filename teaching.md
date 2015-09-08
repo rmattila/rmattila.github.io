@@ -18,3 +18,4 @@ Andreasson](https://people.kth.se/~mandreas/teaching.html) och Niclas Blomberg.
 **Note**: Exercises 3.1, 3.2bc and 3.3bc refer to the old compendium (2011
 version). These have been slightly modified and merged into one exercise (3.1)
 in the new compendium (2013 version).
+* [Exercise 3](/public/el1000_ovn3.pdf)
