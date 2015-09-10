@@ -19,3 +19,5 @@ Andreasson](https://people.kth.se/~mandreas/teaching.html) och Niclas Blomberg.
 version). These have been slightly modified and merged into one exercise (3.1)
 in the new compendium (2013 version).
 * [Exercise 3](/public/el1000_ovn3.pdf)
+* [Exercise 4 (Håkan Terelius)](http://people.kth.se/%7Ehakante/teaching/ak2012/exercise04.pdf)
+* [Exercise 5](/public/el1000_ovn5.pdf)
