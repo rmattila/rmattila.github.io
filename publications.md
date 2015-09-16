@@ -10,9 +10,10 @@ Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
 Matrix Factorization*. In 54th IEEE Conference on Decision and Control, Osaka,
 Japan, 2015.
 
-* Robert Mattila, Yilin Mo and Richard M. Murray, *An Iterative Abstraction Algorithm for
-Reactive Correct-by-Construction Controller Synthesis*. In 54th IEEE
-Conference on Decision and Control, Osaka, Japan, 2015.
+* Robert Mattila, Yilin Mo and Richard M. Murray, [*An Iterative Abstraction
+Algorithm for Reactive Correct-by-Construction Controller
+Synthesis*](http://arxiv.org/abs/1509.04125). In 54th IEEE Conference on
+Decision and Control, Osaka, Japan, 2015.
 
 * Robert Mattila, Cristian R. Rojas and Bo Wahlberg, [*Evaluation of Spectral Learning
 for the Identification of Hidden Markov
