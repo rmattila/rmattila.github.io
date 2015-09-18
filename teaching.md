@@ -24,3 +24,5 @@ in the new compendium (2013 version).
 * [Exercise 6](/public/el1000_ovn6.pdf)
 * [Exercise 7 (Håkan Terelius)](http://people.kth.se/%7Ehakante/teaching/ak2012/exercise07.pdf)
 * [Exercise 8](/public/el1000_ovn8.pdf)
+* [Exercise 9 (Mariette Annergren)](https://people.kth.se/%7Emarann/teaching/ht2011/ex7.pdf)
+* [Exercise 10](/public/el1000_ovn10.pdf)
