@@ -28,3 +28,4 @@ in the new compendium (2013 version).
 * [Exercise 10](/public/el1000_ovn10.pdf)
 * [Exercise 11 (Håkan Terelius)](http://people.kth.se/%7Ehakante/teaching/ak2012/exercise11.pdf)
 * [Exercise 12](/public/el1000_ovn12.pdf)
+* [Exercise 13](/public/el1000_ovn13.pdf)
