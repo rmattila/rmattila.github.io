@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Robert Mattila
 tagline:          'PhD Student'
-description:      'PhD Student<br/>Automatic Control<br/>KTH'
+description:      'PhD Student<br/><a href="http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK">Automatic Control</a><br/>KTH'
 url:              http://rmattila.github.io
 baseurl:          /
 
@@ -17,7 +17,7 @@ author:
   name:           'Robert Mattila'
   url:            https://rmattila.github.io
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 cover_image:      /public/me2.png

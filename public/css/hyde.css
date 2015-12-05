@@ -251,7 +251,7 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-ff .sidebar {
-  background-color: #fff;
+  background-color: #0099ff;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
@@ -259,17 +259,17 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-base-ff .sidebar a {
-  color: #000;
+  color: #fff;
 }
 
 .theme-base-ff .sidebar-about h1 {
-  color: #000;
+  color: #fff;
   margin-top: 0;
   font-family: "PT Sans";
   font-size: 1.2rem;
 }
 
 .theme-base-ff .sidebar-nav-item {
-    color: #aaa;
+    color: #ccc;
 }
 
