@@ -9,7 +9,8 @@ School of Electrical Engineering </br>
 KTH Royal Institute of Technology </br>
 SE-100 44 Stockholm, Sweden </br>
 
-The easiest way to reach me is by sending an email to <b>rmattila(a)kth.se</b>.
+The easiest way to reach me is by visiting room A:620 at the 6th floor of the
+adress above, or sending an email to <b>rmattila(a)kth.se</b>.
 
 ## Bio
 
