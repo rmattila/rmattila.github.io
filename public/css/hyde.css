@@ -251,7 +251,7 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-ff .sidebar {
-  background-color: #0099ff;
+  background-color: #1954a6;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
@@ -270,6 +270,6 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-base-ff .sidebar-nav-item {
-    color: #ccc;
+    color: #ddd;
 }
 
