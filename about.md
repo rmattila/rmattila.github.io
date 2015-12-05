@@ -12,3 +12,14 @@ Assoc. Prof. Cristian R. Rojas. I have been a visiting research student at the
 Zhejiang University, Caltech and the University of British Colombia (UBC). My
 research interests are in the identification and control of hidden Markov
 models and applications related to social networks. 
+
+## PhD Courses
+* Partially Observed Markov Decision Processes: From Filtering to Control
+* SF2972 Game Theory
+* FEL3370 Mathematical Methods in Signals, Systems and Control
+* AK3012 Supplementary Course in Theory and Methodology of Science
+* FSF3970 Bayesian Networks
+* FEL3230 Graduate Course on Hybrid Control Systems 
+* Probabilistic Verification and Synthesis by Prof. Marta Kwiatkowska
+* FLH3000 Basic Communication and Teaching
+
