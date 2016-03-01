@@ -11,10 +11,11 @@ Optimization*](/public/poster_ernsi2015.pdf). Poster at the 2015 Workshop of
 the European Research Network on System Identification (ERNSI), September,
 Varberg, Sweden.
 
-* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, *Recursive
+* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
-Matrix Factorization*. In 54th IEEE Conference on Decision and Control, Osaka,
-Japan, 2015.
+Matrix
+Factorization*](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7402843).
+In 54th IEEE Conference on Decision and Control, Osaka, Japan, 2015.
 
 * Robert Mattila, Yilin Mo and Richard M. Murray, [*An Iterative Abstraction
 Algorithm for Reactive Correct-by-Construction Controller
