@@ -4,10 +4,10 @@ title: About
 ---
 
 ## Contact 
-Department of Automatic Control </br>
-KTH Royal Institute of Technology </br>
-Osquldas väg 10, floor 6 </br>
-100 44 Stockholm, Sweden </br>
+Department of Automatic Control \\
+KTH Royal Institute of Technology \\
+Osquldas väg 10, floor 6 \\
+100 44 Stockholm, Sweden \\
 
 The easiest way to reach me is by visiting room A:620 at the adress above, or
 sending an email to <b>rmattila(a)kth.se</b>.
