@@ -3,9 +3,13 @@ layout: page
 title: Teaching
 ---
 
+## Spring 2016
+
+### EH1010 Project Course in Electrical Engineering
+
 ## Fall 2015
 
-### EL1000 - Basic Control with Bo Wahlberg
+### EL1000 - Automatic Control (General Course) with Bo Wahlberg
 
 I will upload my exercise notes (in Swedish) here as the course proceeds.
 These are heavily based on earlier notes by [Håkan
