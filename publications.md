@@ -5,11 +5,7 @@ title: Publications
 
 Here is a list of my publications:
 
-* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive Method of
-Moments Identification of Hidden Markov Models using Convex
-Optimization*](/public/poster_ernsi2015.pdf). Poster at the 2015 Workshop of
-the European Research Network on System Identification (ERNSI), September,
-Varberg, Sweden.
+### Conferences:
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
@@ -26,6 +22,14 @@ Decision and Control, Osaka, Japan, 2015.
 for the Identification of Hidden Markov
 Models*](http://arxiv.org/abs/1507.06346). In 17th IFAC Symposium on System
 Identification (SYSID 2015), Beijing, China, 2015. 
+
+### Other:
+
+* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive Method of
+Moments Identification of Hidden Markov Models using Convex
+Optimization*](/public/poster_ernsi2015.pdf). Poster at the 2015 Workshop of
+the European Research Network on System Identification (ERNSI), September,
+Varberg, Sweden.
 
 * Robert Mattila, [*On Identification of Hidden Markov Models Using Spectral
 and Non-Negative Matrix Factorization
