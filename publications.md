@@ -7,6 +7,10 @@ Here is a list of my publications:
 
 ### Conferences:
 
+* Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, *A Markov Decision
+Process Model to Guide Treatment of Abdominal Aortic Aneurysms*.
+In IEEE Multi-Conference on Systems and Control, Buenos Aires, Argentina, 2016.
+
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
 Matrix
