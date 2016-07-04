@@ -3,16 +3,23 @@ layout: page
 title: Teaching
 ---
 
-## Spring 2016
+## 2016
+
+### EL1000 Automatic Control 
+
+See the notes from 2015 below.
 
 ### EH1010 Project Course in Electrical Engineering
 
-## Fall 2015
+Supervisor of the LEGO Mindstorms Segway project along with [Alexandros
+Nikou](https://people.kth.se/~anikou/).
 
-### EL1000 - Automatic Control (General Course) with Bo Wahlberg
+## 2015
+
+### EL1000 Automatic Control 
 
 I will upload my exercise notes (in Swedish) here as the course proceeds.
-These are heavily based on earlier notes by [Håkan
+These are based on earlier notes by [Håkan
 Terelius](http://people.kth.se/~hakante/teaching.html), [Mariette
 Annergren](https://people.kth.se/~marann/el1000.html), [Martin
 Andreasson](https://people.kth.se/~mandreas/teaching.html) och Niclas Blomberg.
