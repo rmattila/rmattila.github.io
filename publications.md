@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Here is a list of my publications:
+Here is a list of my work:
 
 ### Conferences:
 
@@ -28,6 +28,11 @@ Models*](http://arxiv.org/abs/1507.06346). In 17th IFAC Symposium on System
 Identification (SYSID 2015), Beijing, China, 2015. 
 
 ### Other:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
+*Method of Moments Identification of Hidden Markov Models
+with Known Sensor Uncertainty Using Convex Optimization*. Poster at Reglermötet
+2016, June, Göteborg, Sweden.
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive Method of
 Moments Identification of Hidden Markov Models using Convex
