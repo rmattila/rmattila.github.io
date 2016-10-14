@@ -7,8 +7,9 @@ Here is a list of my work:
 
 ### Conferences:
 
-* Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, *A Markov Decision
-Process Model to Guide Treatment of Abdominal Aortic Aneurysms*.
+* Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, [*A Markov Decision
+Process Model to Guide Treatment of Abdominal Aortic
+Aneurysms*](http://ieeexplore.ieee.org/document/7587869/).
 In IEEE Multi-Conference on Systems and Control, Buenos Aires, Argentina, 2016.
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
