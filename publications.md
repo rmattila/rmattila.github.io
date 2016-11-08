@@ -11,6 +11,8 @@ Here is a list of my work:
 Process Model to Guide Treatment of Abdominal Aortic
 Aneurysms*](http://ieeexplore.ieee.org/document/7587869/).
 In IEEE Multi-Conference on Systems and Control, Buenos Aires, Argentina, 2016.
+<br>*A slightly revised version with larger figures is available at
+[arXiv](https://arxiv.org/abs/1611.02177).*
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
