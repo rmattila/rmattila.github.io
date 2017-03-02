@@ -5,7 +5,20 @@ title: Publications
 
 Here is a list of my work:
 
+
+### Journals:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
+Bo Wahlberg, *Asymptotically Efficient Identification of Known-Sensor Hidden Markov Models*.
+Submitted to the IEEE Signal Processing Letters, 2017. [Preprint on
+arXiv](https://arxiv.org/abs/1702.00155)
+
 ### Conferences:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
+Bo Wahlberg, *Computing monotone policies for Markov decision processes:
+a nearly-isotonic penalty approach*.
+In the 20th IFAC World Congress, Toulouse, France, 2017.
 
 * Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, [*A Markov Decision
 Process Model to Guide Treatment of Abdominal Aortic
@@ -31,6 +44,11 @@ Models*](http://arxiv.org/abs/1507.06346). In 17th IFAC Symposium on System
 Identification (SYSID 2015), Beijing, China, 2015. 
 
 ### Other:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Method of
+Moments Identification of Hidden Markov Models with Known Sensor Uncertainty Using Convex
+Optimization*. Poster at the 2016 Workshop of the European Research Network on System
+Identification (ERNSI), September, Cison di Valmarino, Italy.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
 *Method of Moments Identification of Hidden Markov Models
