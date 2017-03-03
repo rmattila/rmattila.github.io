@@ -16,7 +16,7 @@ author:
   name:           'Robert Mattila'
   url:            https://rmattila.github.io
 
-paginate:         3
+paginate:         4
 
 # Custom vars
 cover_image:      /public/me2.png
