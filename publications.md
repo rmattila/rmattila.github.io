@@ -16,8 +16,8 @@ arXiv](https://arxiv.org/abs/1702.00155)
 ### Conferences:
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
-Bo Wahlberg, *Computing monotone policies for Markov decision processes:
-a nearly-isotonic penalty approach*.
+Bo Wahlberg, *[Computing monotone policies for Markov decision processes:
+a nearly-isotonic penalty approach](https://arxiv.org/pdf/1704.00621.pdf)*.
 In the 20th IFAC World Congress, Toulouse, France, 2017.
 
 * Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, [*A Markov Decision
