@@ -47,4 +47,4 @@ in the new compendium (2013 version).
 * [Exercise 12](/public/el1000_ovn12.pdf)
 * [Exercise 13](/public/el1000_ovn13.pdf)
 
-Test: {{ site.baseurl }} End test.
+Test: {{ site.baseurl }}, {{ baseurl }}, {{ site.title }}, {{ title }} End test.
