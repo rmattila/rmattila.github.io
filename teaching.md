@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 ---
 
+## 2017
+
+### Master Thesis
+
+Supervisor for Daniel Merkoulova.
+
 ## 2016
 
 ### EL1000 Automatic Control 
