@@ -15,6 +15,15 @@ arXiv](https://arxiv.org/abs/1702.00155)
 
 ### Conferences:
 
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Identification
+of Hidden Markov Models Using Spectral Learning with Likelihood Maximization*. In the 56th
+IEEE Conference on Decision and Control (CDC'17), Melbourne, Australia, 2017.
+
+* Antti Siika, Robert Mattila, Bo Wahlberg and Joy Roy. *An Optimal Gender-Specific
+Treatment Policy for Abdominal Aortic Aneurysms Constructed Using a Markov Decision
+Process Model*. In the Society for Vascular Surgery’s Vascular Annual Meeting (VAM’17),
+San Diego, USA, 2017.
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
 Bo Wahlberg, *[Computing monotone policies for Markov decision processes:
 a nearly-isotonic penalty approach](https://arxiv.org/pdf/1704.00621.pdf)*.
