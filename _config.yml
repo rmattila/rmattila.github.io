@@ -11,7 +11,7 @@ tagline:          'PhD Student'
 description:      'PhD Student<br/><a href="http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK">Automatic Control</a><br/>KTH'
 url:              http://rmattila.github.io
 #baseurl:          /
-baseurl:          '//'
+baseurl:          'http://rmattila.github.io/'
 
 author:
   name:           'Robert Mattila'
