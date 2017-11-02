@@ -30,17 +30,17 @@ real-world applications of machine learning and optimization -- such as in medic
 ## PhD Courses
 * Partially Observed Markov Decision Processes: From Filtering to Control by Prof. [Vikram
 Krishnamurthy](http://www.ece.ubc.ca/~vikramk/Site_2/Home.html)
-* SF2972 Game Theory
-* FEL3370 Mathematical Methods in Signals, Systems and Control
+* [SF2972](https://www.kth.se/student/kurser/kurs/SF2972?l=en) Game Theory
+* [FEL3370](http://people.kth.se/~crro/Math_Methods/Course.html) Mathematical Methods in Signals, Systems and Control
 * AK3012 Supplementary Course in Theory and Methodology of Science
-* FSF3970 Bayesian Networks
+* [FSF3970](https://people.kth.se/~tjtkoski/banet2015.html) Bayesian Networks
 * FEL3230 Graduate Course on Hybrid Control Systems 
 * Probabilistic Verification and Synthesis by Prof. [Marta
 Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/)
 * FLH3000 Basic Communication and Teaching
 * FDS3103 Introduction to Scientific Writing
-* EM3220 Matrix Algebra
-* FEO3230 Probability and Random Processes
-* EL3300/SF3847 Convex Optimization with Engineering Applications
-* EL2800 Stochastic Control and Optimization
-* DD2424 Deep Learning in Data Science (attended lectures)
+* [EM3220](https://www.kth.se/student/kurser/kurs/EM3220?l=en) Matrix Algebra
+* [FEO3230](https://people.kth.se/~skoglund/edu/probability/) Probability and Random Processes
+* [EL3300/SF3847](http://www.math.kth.se/optsyst/forskning/forskarutbildning/SF3847/info.html) Convex Optimization with Engineering Applications
+* [EL2800](https://www.kth.se/student/kurser/kurs/EL2800?l=en) Stochastic Control and Optimization
+* [DD2424](https://www.kth.se/student/kurser/kurs/DD2424?l=en) Deep Learning in Data Science (attended lectures)
