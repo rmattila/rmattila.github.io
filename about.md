@@ -35,7 +35,7 @@ Krishnamurthy](http://www.ece.ubc.ca/~vikramk/Site_2/Home.html)
 * [FEL3370](http://people.kth.se/~crro/Math_Methods/Course.html) Mathematical Methods in Signals, Systems and Control
 * AK3012 Supplementary Course in Theory and Methodology of Science
 * [FSF3970](https://people.kth.se/~tjtkoski/banet2015.html) Bayesian Networks
-* FEL3230 Graduate Course on Hybrid Control Systems 
+* [FEL3230](https://people.kth.se/~boskos/hybrid.html) Graduate Course on Hybrid Control Systems 
 * Probabilistic Verification and Synthesis by Prof. [Marta
 Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/)
 * FLH3000 Basic Communication and Teaching
