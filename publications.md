@@ -33,12 +33,11 @@ Bo Wahlberg, *[Computing monotone policies for Markov decision processes:
 a nearly-isotonic penalty approach](https://arxiv.org/pdf/1704.00621.pdf)*.
 In the 20th IFAC World Congress, Toulouse, France, 2017.
 
-* Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, [*A Markov Decision
-Process Model to Guide Treatment of Abdominal Aortic
-Aneurysms*](http://ieeexplore.ieee.org/document/7587869/).
-In IEEE Multi-Conference on Systems and Control, Buenos Aires, Argentina, 2016.
-<br>*A slightly revised version with larger figures is available at
-[arXiv](https://arxiv.org/abs/1611.02177).*
+* Robert Mattila, Antti Siika, Joy Roy and Bo Wahlberg, [*A Markov Decision Process Model
+to Guide Treatment of Abdominal Aortic
+Aneurysms*](http://ieeexplore.ieee.org/document/7587869/).  In the IEEE Conference on
+Control Applications (CCA'16), Buenos Aires, Argentina, 2016.  <br>*A slightly revised
+version with larger figures is available at [arXiv](https://arxiv.org/abs/1611.02177).*
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
