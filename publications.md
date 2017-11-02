@@ -23,10 +23,10 @@ Processing Systems (**NIPS'17**), Long Beach, USA, 2017.
 of Hidden Markov Models Using Spectral Learning with Likelihood Maximization*. In the 56th
 IEEE Conference on Decision and Control (CDC'17), Melbourne, Australia, 2017.
 
-* Antti Siika, Robert Mattila, Bo Wahlberg and Joy Roy. *An Optimal Gender-Specific
+* Antti Siika, Robert Mattila, Bo Wahlberg and Joy Roy. *[An Optimal Gender-Specific
 Treatment Policy for Abdominal Aortic Aneurysms Constructed Using a Markov Decision
-Process Model*. In the Society for Vascular Surgery’s Vascular Annual Meeting (VAM’17),
-San Diego, USA, 2017.
+Process Model](http://www.sciencedirect.com/science/article/pii/S074152141730770X)*. In
+the Society for Vascular Surgery’s Vascular Annual Meeting (VAM’17), San Diego, USA, 2017.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
 Bo Wahlberg, *[Computing monotone policies for Markov decision processes:
@@ -57,6 +57,10 @@ Models*](http://arxiv.org/abs/1507.06346). In 17th IFAC Symposium on System
 Identification (SYSID 2015), Beijing, China, 2015. 
 
 ### Other:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
+Filtering for Hidden Markov Models*. Poster at the 2017 Workshop of the European Research
+Network on System Identification (ERNSI), September, Lyon, France.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Method of
 Moments Identification of Hidden Markov Models with Known Sensor Uncertainty Using Convex
