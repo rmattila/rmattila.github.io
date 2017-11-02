@@ -9,19 +9,23 @@ KTH Royal Institute of Technology \\
 Osquldas väg 10, floor 6 \\
 114 28 Stockholm, Sweden 
 
-The easiest way to reach me is by visiting room A:620 at the adress above, or
+The easiest way to reach me is by visiting room A:633 at the adress above, or
 sending an email to <b>rmattila(a)kth.se</b>.
 
 ## Bio
 
-I graduated from KTH's Engineering Physics programme in 2015 with an MSc in *Systems,
-Control and Robotics* and began as a PhD student at the [Department of Automatic
+I graduated from KTH's [Engineering
+Physics](https://www.kth.se/student/kurser/program/CTFYS/20102/mal?l=en) programme in 2015
+with an MSc in [Systems, Control and
+Robotics](https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733)
+and began as a PhD student at the [Department of Automatic
 Control](https://www.kth.se/en/ees/omskolan/organisation/avdelningar/ac) the same year
 under the supervision of Prof. [Bo Wahlberg](http://people.kth.se/~bo/) and co-supervision
 of Assoc. Prof. [Cristian R. Rojas](https://people.kth.se/~crro/). I have been a visiting
 research student at the California Institute of Technology (Caltech) and the University of
-British Colombia (UBC). My research interests are in the identification and control of
-hidden Markov models and applications related to social networks and medicine.
+British Colombia (UBC). My research interests are within inference and control of
+stochastic dynamical systems (in particular of hidden Markov models), as well as,
+real-world applications of machine learning and optimization -- such as in medicine.
 
 ## PhD Courses
 * Partially Observed Markov Decision Processes: From Filtering to Control by Prof. [Vikram
@@ -39,4 +43,4 @@ Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/)
 * FEO3230 Probability and Random Processes
 * EL3300/SF3847 Convex Optimization with Engineering Applications
 * EL2800 Stochastic Control and Optimization
-
+* DD2424 Deep Learning in Data Science (attended lectures)
