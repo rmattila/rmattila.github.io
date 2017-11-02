@@ -28,7 +28,8 @@ stochastic dynamical systems (in particular of hidden Markov models), as well as
 real-world applications of machine learning and optimization -- such as in medicine.
 
 ## PhD Courses
-* Partially Observed Markov Decision Processes: From Filtering to Control by Prof. [Vikram
+* [Partially Observed Markov Decision
+Processes](http://people.kth.se/~bo/Vikram/Course.html): From Filtering to Control by Prof. [Vikram
 Krishnamurthy](http://www.ece.ubc.ca/~vikramk/Site_2/Home.html)
 * [SF2972](https://www.kth.se/student/kurser/kurs/SF2972?l=en) Game Theory
 * [FEL3370](http://people.kth.se/~crro/Math_Methods/Course.html) Mathematical Methods in Signals, Systems and Control
