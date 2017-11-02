@@ -5,6 +5,12 @@ title: Teaching
 
 ## 2017
 
+### EL2800 Stochastic Control and Optimization
+
+I will post my notes here as the course progresses:
+
+* [Exercise 1](http://rmattila.github.io/public/el2800_ex1.pdf)
+
 ### Master Thesis
 
 Supervisor for Daniel Merkoulova.
