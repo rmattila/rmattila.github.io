@@ -11,6 +11,13 @@ title: Teaching
 I will post my notes here as the course progresses:
 
 * [Exercise 1](http://rmattila.github.io/public/el2800_ex1.pdf)
+    * Some Youtube-videos introducing Markov chains: 
+[1](https://www.youtube.com/watch?v=7KGdE2AK_MQ)
+[2](https://www.youtube.com/watch?v=WUjt98HcHlk)
+[3](https://www.youtube.com/watch?v=j6OUj9tleVM)
+and
+[4](https://www.youtube.com/watch?v=Pce7KKeUf5w)
+[5](https://www.youtube.com/watch?v=daY4lgEyEPc)
 
 ### Master Thesis
 
