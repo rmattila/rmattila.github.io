@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 ---
 
+<hr>
 ## 2017
 
 ### EL2800 Stochastic Control and Optimization
@@ -15,6 +16,7 @@ I will post my notes here as the course progresses:
 
 Supervisor for Daniel Merkoulova.
 
+<hr>
 ## 2016
 
 ### EL1000 Automatic Control 
@@ -26,6 +28,7 @@ See the notes from 2015 below.
 Supervisor of the LEGO Mindstorms Segway project along with [Alexandros
 Nikou](https://people.kth.se/~anikou/).
 
+<hr>
 ## 2015
 
 ### EL1000 Automatic Control 
