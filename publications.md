@@ -37,7 +37,11 @@ In the 20th IFAC World Congress, Toulouse, France, 2017.
 to Guide Treatment of Abdominal Aortic
 Aneurysms*](http://ieeexplore.ieee.org/document/7587869/).  In the IEEE Conference on
 Control Applications (CCA'16), Buenos Aires, Argentina, 2016.  <br>*A slightly revised
-version with larger figures is available at [arXiv](https://arxiv.org/abs/1611.02177).*
+version with larger figures is available on [arXiv](https://arxiv.org/abs/1611.02177).*
+A general summary is available on the KTH website in
+[English](https://www.kth.se/en/forskning/artiklar/da-ar-det-bast-att-operera-artarbrack-1.684616)
+and
+[Swedish](https://www.kth.se/forskning/artiklar/da-ar-det-bast-att-operera-artarbrack-1.684616).
 
 * Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive
 Identification of Chain Dynamics in Hidden Markov Models Using Non-Negative
