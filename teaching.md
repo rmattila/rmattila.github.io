@@ -18,6 +18,7 @@ I will post my notes here as the course progresses:
 and
 [4](https://www.youtube.com/watch?v=Pce7KKeUf5w)
 [5](https://www.youtube.com/watch?v=daY4lgEyEPc)
+* [Exercise 2](http://rmattila.github.io/public/el2800_ex2.pdf)
 
 ### Master Thesis
 
