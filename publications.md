@@ -18,6 +18,7 @@ arXiv](https://arxiv.org/abs/1702.00155).
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
 Filtering for Hidden Markov Models*. In the 31st Annual Conference on Neural Information
 Processing Systems (**NIPS'17**), Long Beach, USA, 2017.
+[Poster](http://rmattila.github.io/public/nips17_poster.pdf).
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Identification
 of Hidden Markov Models Using Spectral Learning with Likelihood Maximization*. In the 56th
