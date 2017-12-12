@@ -10,7 +10,7 @@ title: Teaching
 
 I will post my notes here as the course progresses:
 
-* [Exercise 1](http://rmattila.github.io/public/el2800_ex1.pdf)
+* My notes for [Exercise 1](http://rmattila.github.io/public/el2800_ex1.pdf)
     * Some Youtube-videos introducing Markov chains: 
 [1](https://www.youtube.com/watch?v=7KGdE2AK_MQ)
 [2](https://www.youtube.com/watch?v=WUjt98HcHlk)
@@ -18,8 +18,10 @@ I will post my notes here as the course progresses:
 and
 [4](https://www.youtube.com/watch?v=Pce7KKeUf5w)
 [5](https://www.youtube.com/watch?v=daY4lgEyEPc)
-* [Exercise 2](http://rmattila.github.io/public/el2800_ex2.pdf)
-* [Exercise 3](http://rmattila.github.io/public/el2800_ex3.pdf)
+* My notes for [Exercise 2](http://rmattila.github.io/public/el2800_ex2.pdf)
+* My notes for [Exercise 3](http://rmattila.github.io/public/el2800_ex3.pdf)
+* [Vahan Petrosyan](https://www.kth.se/profile/vahanp)'s notes for [Exercise 4](http://rmattila.github.io/public/el2800_ex4_vahan.pdf)
+* [Vahan Petrosyan](https://www.kth.se/profile/vahanp)'s notes for [Exercise 5](http://rmattila.github.io/public/el2800_ex5_vahan.pdf)
 
 ### Master Thesis
 
