@@ -8,17 +8,17 @@ Here is a list of my work:
 
 ### Journals:
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy,
-Bo Wahlberg, *Asymptotically Efficient Identification of Known-Sensor Hidden Markov Models*.
-Submitted to the IEEE Signal Processing Letters, 2017. [Preprint on
-arXiv](https://arxiv.org/abs/1702.00155).
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg, *Asymptotically
+  Efficient Identification of Known-Sensor Hidden Markov Models*.  IEEE Signal Processing
+Letters, 2017, 24.12: 1813-1817. [Preprint on arXiv](https://arxiv.org/abs/1702.00155).
 
 ### Conferences:
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
-Filtering for Hidden Markov Models*. In the 31st Annual Conference on Neural Information
-Processing Systems (**NIPS'17**), Long Beach, USA, 2017.
-[Poster](http://rmattila.github.io/public/nips17_poster.pdf).
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
+  Filtering for Hidden Markov
+Models](http://papers.nips.cc/paper/7008-inverse-filtering-for-hidden-markov-models)*. In
+the 31st Annual Conference on Neural Information Processing Systems (**NIPS'17**), Long
+Beach, USA, 2017.  [Poster](http://rmattila.github.io/public/nips17_poster.pdf).
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Identification
 of Hidden Markov Models Using Spectral Learning with Likelihood Maximization*. In the 56th
