@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+Various (possibly non-research related) projects.
+
+<hr>
+
 ### MDP-Explore 
 
 [![MDP-Explore Screenshot](https://rmattila.github.io/img/mdp-explore2.png)](https://github.com/rmattila/MDP-Explore)
