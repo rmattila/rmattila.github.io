@@ -22,10 +22,12 @@ and began as a PhD student at the [Department of Automatic
 Control](https://www.kth.se/en/ees/omskolan/organisation/avdelningar/ac) the same year
 under the supervision of Prof. [Bo Wahlberg](http://people.kth.se/~bo/) and co-supervision
 of Assoc. Prof. [Cristian R. Rojas](https://people.kth.se/~crro/). I have been a visiting
-research student at the California Institute of Technology (Caltech) and the University of
-British Colombia (UBC). My research interests are within inference and control of
-stochastic dynamical systems (in particular of hidden Markov models), as well as,
-real-world applications of machine learning and optimization -- such as in medicine.
+researcher at the [California Institute of Technology (Caltech)](http://www.caltech.edu),
+the [University of British Colombia (UBC)](https://www.ubc.ca) and [Cornell
+Tech](https://tech.cornell.edu). My research interests are within inference and control of
+stochastic dynamical systems (in particular of [hidden Markov
+models](https://en.wikipedia.org/wiki/Hidden_Markov_model)), as well as, real-world
+applications of machine learning and optimization -- such as in medicine.
 
 ## PhD Courses
 * [Partially Observed Markov Decision
