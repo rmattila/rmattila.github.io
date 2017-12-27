@@ -22,6 +22,7 @@ and
 * My notes for [Exercise 3](http://rmattila.github.io/public/el2800_ex3.pdf)
 * [Vahan Petrosyan](https://www.kth.se/profile/vahanp)'s notes for [Exercise 4](http://rmattila.github.io/public/el2800_ex4_vahan.pdf)
 * [Vahan Petrosyan](https://www.kth.se/profile/vahanp)'s notes for [Exercise 5](http://rmattila.github.io/public/el2800_ex5_vahan.pdf)
+* [Vahan Petrosyan](https://www.kth.se/profile/vahanp)'s notes for [Exercise 6](http://rmattila.github.io/public/el2800_ex6_vahan.pdf)
 
 ### Master Thesis
 
