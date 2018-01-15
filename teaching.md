@@ -4,6 +4,13 @@ title: Teaching
 ---
 
 <hr>
+## 2018
+
+### Bachelor Thesis
+Supervisor of two projects on [inverse Markowitz portfolio
+selection](https://www.kth.se/social/course/EF112X/page/context-c-learning-in-dynamical-systems/)
+
+<hr>
 ## 2017
 
 ### EL2800 Stochastic Control and Optimization
