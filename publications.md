@@ -8,9 +8,10 @@ Here is a list of my work:
 
 ### Journals:
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg, *Asymptotically
-  Efficient Identification of Known-Sensor Hidden Markov Models*.  IEEE Signal Processing
-Letters, 2017, 24.12: 1813-1817. [Preprint on arXiv](https://arxiv.org/abs/1702.00155).
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg, [*Asymptotically
+Efficient Identification of Known-Sensor Hidden Markov
+Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing Letters,
+2017, 24.12: 1813-1817. 
 
 ### Conferences:
 
@@ -20,9 +21,10 @@ Models](http://papers.nips.cc/paper/7008-inverse-filtering-for-hidden-markov-mod
 the 31st Annual Conference on Neural Information Processing Systems (**NIPS'17**), Long
 Beach, USA, 2017.  [Poster](http://rmattila.github.io/public/nips17_poster.pdf).
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Identification
-of Hidden Markov Models Using Spectral Learning with Likelihood Maximization*. In the 56th
-IEEE Conference on Decision and Control (CDC'17), Melbourne, Australia, 2017.
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
+[*Identification of Hidden Markov Models Using Spectral Learning with Likelihood
+Maximization*](http://ieeexplore.ieee.org/document/8264545/). In the 56th IEEE Conference
+on Decision and Control (CDC'17), Melbourne, Australia, 2017.
 
 * Antti Siika, Robert Mattila, Bo Wahlberg and Joy Roy. *[An Optimal Gender-Specific
 Treatment Policy for Abdominal Aortic Aneurysms Constructed Using a Markov Decision
@@ -76,9 +78,9 @@ Identification (ERNSI), September, Cison di Valmarino, Italy.
 with Known Sensor Uncertainty Using Convex Optimization*. Poster at Reglermötet
 2016, June, Göteborg, Sweden.
 
-* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, [*Recursive Method of
+* Robert Mattila, Vikram Krishnamurthy and Bo Wahlberg, *Recursive Method of
 Moments Identification of Hidden Markov Models using Convex
-Optimization*](/public/poster_ernsi2015.pdf). Poster at the 2015 Workshop of
+Optimization*. Poster at the 2015 Workshop of
 the European Research Network on System Identification (ERNSI), September,
 Varberg, Sweden.
 
