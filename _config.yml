@@ -12,8 +12,8 @@ description:      'PhD Student<br/><a href="http://www.kth.se/ees/omskolan/organ
 url:              http://rmattila.github.io
 #baseurl:          /
 #Have a look at https://github.com/github/pages-gem/issues/350 to see when the issue is resolved
-baseurl:          'http://rmattila.github.io/'
-#baseurl:          ''
+#baseurl:          'http://rmattila.github.io/'
+baseurl:          ''
 
 author:
   name:           'Robert Mattila'
