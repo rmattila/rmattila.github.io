@@ -62,11 +62,18 @@ for the Identification of Hidden Markov
 Models*](http://arxiv.org/abs/1507.06346). In 17th IFAC Symposium on System
 Identification (SYSID 2015), Beijing, China, 2015. 
 
-### Other:
+### Theses:
 
 * Robert Mattila, [*Hidden Markov models: Identification, control and inverse
 filtering*](http://www.diva-portal.org/smash/get/diva2:1186464/FULLTEXT01.pdf).
 Licentiate thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2018.
+
+* Robert Mattila, [*On Identification of Hidden Markov Models Using Spectral
+and Non-Negative Matrix Factorization
+Methods*](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A808842&dswid=4818).
+Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
+
+### Other:
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
 Filtering for Hidden Markov Models*. Poster at the 2017 Workshop of the European Research
@@ -88,7 +95,3 @@ Optimization*. Poster at the 2015 Workshop of
 the European Research Network on System Identification (ERNSI), September,
 Varberg, Sweden.
 
-* Robert Mattila, [*On Identification of Hidden Markov Models Using Spectral
-and Non-Negative Matrix Factorization
-Methods*](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A808842&dswid=4818).
-Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
