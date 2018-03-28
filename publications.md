@@ -64,6 +64,10 @@ Identification (SYSID 2015), Beijing, China, 2015.
 
 ### Other:
 
+* Robert Mattila, [*Hidden Markov models: Identification, control and inverse
+filtering*](http://www.diva-portal.org/smash/get/diva2:1186464/FULLTEXT01.pdf).
+Licentiate thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2018.
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
 Filtering for Hidden Markov Models*. Poster at the 2017 Workshop of the European Research
 Network on System Identification (ERNSI), September, Lyon, France.
