@@ -75,6 +75,11 @@ Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
 
 ### Other:
 
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
+Filtering for Hidden Markov Models*. Poster at [WASP AI4X
+Industry](http://wasp-sweden.org/ai/ai4x/ai4x-industry/), February 2018, Stockholm, Sweden.
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
 Filtering for Hidden Markov Models*. Poster at the 2017 Workshop of the European Research
 Network on System Identification (ERNSI), September, Lyon, France.
