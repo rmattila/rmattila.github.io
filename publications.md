@@ -15,6 +15,11 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 
 ### Conferences:
 
+* Roberto G. Ramírez-Chavarría, Gustavo Quintana-Carapia, Matias I. Müller, Robert
+Mattila, Daniel Matatagui, Celia Sánchez-Pérez, *Bioimpedance Parameter Estimation using
+Fast Spectral Measurements and Regularization*. In the 18th IFAC Symposium on System
+Identification (SYSID'18), Stockholm, Sweden, 2018. 
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
   Filtering for Hidden Markov
 Models](http://papers.nips.cc/paper/7008-inverse-filtering-for-hidden-markov-models)*. In
