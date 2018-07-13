@@ -80,6 +80,9 @@ Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
 
 ### Other:
 
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
+*Inverse Filtering for Linear Gaussian State-Space Models*. Presentation at Reglermötet
+2018, June, Stockholm, Sweden.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, [*Inverse
 Filtering for Hidden Markov Models*](http://rmattila.github.io/public/nips17_poster.pdf).
