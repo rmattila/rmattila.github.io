@@ -84,6 +84,10 @@ Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
 
 ### Other:
 
+* Robert Mattila, Cristian R. Rojas, Eric Moulines, Vikram Krishnamurthy and Bo Wahlberg,
+  *Method of Moment Estimation of Hidden Markov Models*. Poster at the 2018 Workshop of the
+European Research Network on System Identification (ERNSI), September, Cambridge, U.K.
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
 *Inverse Filtering for Linear Gaussian State-Space Models*. Presentation at Reglermötet
 2018, June, Stockholm, Sweden.
