@@ -6,6 +6,10 @@ title: Teaching
 <hr>
 ## 2018
 
+### EL2805 Reinforcement Learning
+
+[Course web](https://www.kth.se/student/kurser/kurs/EL2805?l=en)
+
 ### Bachelor Thesis
 Supervisor of two projects on [inverse Markowitz portfolio
 selection](https://www.kth.se/social/course/EF112X/page/context-c-learning-in-dynamical-systems/)
