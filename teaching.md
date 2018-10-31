@@ -10,6 +10,10 @@ title: Teaching
 
 [Course web](https://www.kth.se/student/kurser/kurs/EL2805?l=en)
 
+I will post my notes here as the course progresses:
+
+* My notes for [Exercise 1](http://rmattila.github.io/public/el2805_ex1.pdf)
+
 ### Bachelor Thesis
 Supervisor of two projects on [inverse Markowitz portfolio
 selection](https://www.kth.se/social/course/EF112X/page/context-c-learning-in-dynamical-systems/)
