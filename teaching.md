@@ -16,6 +16,12 @@ I will post my notes here as the course progresses:
 * My notes for [Exercise 2](http://rmattila.github.io/public/el2805_ex2.pdf)
 * My notes for [Exercise 3](http://rmattila.github.io/public/el2805_ex3.pdf)
 
+Relevant links:
+
+* [Introduction to RL (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Deep RL (UC Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* [Advanced Deep Learning & Reinforcement Learning (Deep Mind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 ### Bachelor Thesis
 Supervisor of two projects on [inverse Markowitz portfolio
 selection](https://www.kth.se/social/course/EF112X/page/context-c-learning-in-dynamical-systems/)
