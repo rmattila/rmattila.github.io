@@ -23,6 +23,9 @@ Relevant links:
 * [Introduction to RL (UCL)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Deep RL (UC Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Advanced Deep Learning & Reinforcement Learning (Deep Mind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+* [AlphaZero in
+  Science](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/)
+    * The paper can be read [here](http://science.sciencemag.org/content/362/6419/1140).
 
 ### Bachelor Thesis
 Supervisor of two projects on [inverse Markowitz portfolio
