@@ -17,6 +17,7 @@ I will post my notes here as the course progresses:
 * My notes for [Exercise 3](http://rmattila.github.io/public/el2805_ex3.pdf)
 * My notes for [Exercise 4](http://rmattila.github.io/public/el2805_ex4.pdf)
 * My notes for [Exercise 5](http://rmattila.github.io/public/el2805_ex5.pdf)
+* My notes for [Exercise 6](http://rmattila.github.io/public/el2805_ex6.pdf)
 
 Relevant links:
 
