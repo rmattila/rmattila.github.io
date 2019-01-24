@@ -3,6 +3,22 @@ layout: page
 title: Publications
 ---
 
+### Selected:
+
+* *[Inverse Filtering for Hidden Markov
+  Models](http://papers.nips.cc/paper/7008-inverse-filtering-for-hidden-markov-models)*
+    * In NIPS, 2017.
+
+* [*Asymptotically Efficient Identification of Known-Sensor Hidden Markov
+  Models*](http://ieeexplore.ieee.org/document/8060991/)
+    * In IEEE SPL, 2017. 
+
+* [*A Markov Decision Process Model to Guide Treatment of Abdominal Aortic
+  Aneurysms*](http://ieeexplore.ieee.org/document/7587869/)
+    * In IEEE CCA, 2016.
+
+<hr/>
+
 Here is a list of my work:
 
 
