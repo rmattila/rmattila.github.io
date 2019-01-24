@@ -4,9 +4,9 @@ title: About
 ---
 
 ## Contact 
-Department of Automatic Control \\
+Division of Decision and Control Systems \\
 KTH Royal Institute of Technology \\
-Osquldas väg 10, floor 6 \\
+Malvinas väg 10, floor 6 \\
 114 28 Stockholm, Sweden 
 
 The easiest way to reach me is by visiting room A:633 at the adress above, or
@@ -18,16 +18,16 @@ I graduated from KTH's [Engineering
 Physics](https://www.kth.se/student/kurser/program/CTFYS/20102/mal?l=en) programme in 2015
 with an MSc in [Systems, Control and
 Robotics](https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733)
-and began as a PhD student at the [Department of Automatic
-Control](https://www.kth.se/en/ees/omskolan/organisation/avdelningar/ac) the same year
-under the supervision of Prof. [Bo Wahlberg](http://people.kth.se/~bo/) and co-supervision
-of Assoc. Prof. [Cristian R. Rojas](https://people.kth.se/~crro/). I have been a visiting
-researcher at the [California Institute of Technology (Caltech)](http://www.caltech.edu),
-the [University of British Colombia (UBC)](https://www.ubc.ca) and [Cornell
-Tech](https://tech.cornell.edu). My research interests are within inference and control of
-stochastic dynamical systems (in particular of [hidden Markov
-models](https://en.wikipedia.org/wiki/Hidden_Markov_model)), as well as, real-world
-applications of machine learning and optimization -- such as in medicine.
+and began as a PhD student at the [Division of Decision and Control
+Systems](https://www.kth.se/dcs/) the same year under the supervision of Prof. [Bo
+Wahlberg](http://people.kth.se/~bo/) and co-supervision of Assoc. Prof. [Cristian R.
+Rojas](https://people.kth.se/~crro/). I have been a visiting researcher at the [California
+Institute of Technology (Caltech)](http://www.caltech.edu), the [University of British
+Colombia (UBC)](https://www.ubc.ca) and [Cornell Tech](https://tech.cornell.edu). My
+research interests are within inference and control of stochastic dynamical systems (in
+particular of [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)),
+as well as, real-world applications of machine learning and optimization -- such as in
+medicine.
 
 ## PhD Courses
 * [Partially Observed Markov Decision
