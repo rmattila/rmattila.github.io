@@ -15,14 +15,16 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 
 ### Conferences:
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *Inverse
-  Filtering for Linear Gaussian State-Space Models*. In the 57th IEEE Conference on
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
+  Filtering for Linear Gaussian State-Space
+Models](https://ieeexplore.ieee.org/document/8619013)*. In the 57th IEEE Conference on
 Decision and Control (CDC'18), Miami Beach, FL, USA, 2018.
 
 * Roberto G. Ramírez-Chavarría, Gustavo Quintana-Carapia, Matias I. Müller, Robert
-Mattila, Daniel Matatagui, Celia Sánchez-Pérez, *Bioimpedance Parameter Estimation using
-Fast Spectral Measurements and Regularization*. In the 18th IFAC Symposium on System
-Identification (SYSID'18), Stockholm, Sweden, 2018. 
+  Mattila, Daniel Matatagui, Celia Sánchez-Pérez, *[Bioimpedance Parameter Estimation
+using Fast Spectral Measurements and
+Regularization](https://www.sciencedirect.com/science/article/pii/S2405896318318706)*. In
+the 18th IFAC Symposium on System Identification (SYSID'18), Stockholm, Sweden, 2018. 
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
   Filtering for Hidden Markov
