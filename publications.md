@@ -24,6 +24,10 @@ Here is a list of my work:
 
 ### Journals:
 
+* Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg,
+  *Estimating Private Beliefs of Bayesian Agents Based on Observed Decisions*. IEEE
+Control Systems Letters, 2019. 
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg, [*Asymptotically
 Efficient Identification of Known-Sensor Hidden Markov
 Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing Letters,
