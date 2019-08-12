@@ -26,8 +26,8 @@ Institute of Technology (Caltech)](http://www.caltech.edu), the [University of B
 Colombia (UBC)](https://www.ubc.ca) and [Cornell Tech](https://tech.cornell.edu). My
 research interests are within inference and control of stochastic dynamical systems (in
 particular of [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)),
-as well as, real-world applications of machine learning and optimization -- such as in
-medicine.
+as well as real-world applications -- for example to medicine and health-care -- of machine
+learning and optimization.
 
 ## PhD Courses
 * [Partially Observed Markov Decision
@@ -47,4 +47,7 @@ Krishnamurthy](https://tech.cornell.edu/people/vikram-krishnamurthy)
 * [EL2800](https://www.kth.se/student/kurser/kurs/EL2800?l=en) Stochastic Control and Optimization
 * [DD2424](https://www.kth.se/student/kurser/kurs/DD2424?l=en) Deep Learning in Data Science (attended lectures)
 * [EM3200](https://www.kth.se/student/kurser/kurs/EM3200?l=en) Optimal Filtering (attended lectures)
+* [EL2805](https://www.kth.se/student/kurser/kurs/EL2805?l=en) Reinforcement Learning (teacher)
+* [EL3311](https://www.kth.se/student/kurser/kurs/EL3311) Distributed Optimization (attended lectures)
+* [FJL3380](https://www.kth.se/social/group/fjl3380-theoretical-/) Theoretical Foundations of Machine Learning (attended lectures)
 
