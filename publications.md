@@ -24,6 +24,12 @@ Here is a list of my work:
 
 ### Journals:
 
+* Roberto G. Ramírez-Chavarría, Matias I. Müller, Robert Mattila, Gustavo
+  Quintana-Carapia, Celia Sánchez-Pérez, [*A Framework for High-Resolution Frequency
+Response Measurement and Parameter Estimation in Microscale Impedance
+Applications*](https://www.sciencedirect.com/science/article/pii/S0263224119307705).
+Measurement, 2019.
+
 * Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy, Bo Wahlberg,
   [*Estimating Private Beliefs of Bayesian Agents Based on Observed
 Decisions*](https://ieeexplore.ieee.org/document/8693524). IEEE Control Systems Letters,
@@ -35,6 +41,11 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 2017, 24.12: 1813-1817. 
 
 ### Conferences:
+
+* Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
+  [*Estimating Private Beliefs of Bayesian Agents Based on Observed
+Decisions*](https://ieeexplore.ieee.org/document/8693524). In the 58th IEEE Conference on
+Decision and Control (CDC'19), Nice, France, 2019.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
   Filtering for Linear Gaussian State-Space
