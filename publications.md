@@ -42,6 +42,11 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 
 ### Conferences:
 
+* Robert Mattila, Inês Lourenço, Vikram Krishnamurthy, Cristian R. Rojas and Bo Wahlberg,
+  [*What Did Your Adversary Believe? Optimal Filtering and Smoothing in
+Counter-Adversarial Autonomous Systems*](https://arxiv.org/pdf/1910.07332.pdf). Submitted
+(arXiv preprint). 
+
 * Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
   [*Estimating Private Beliefs of Bayesian Agents Based on Observed
 Decisions*](https://ieeexplore.ieee.org/document/8693524). In the 58th IEEE Conference on
@@ -117,6 +122,11 @@ Methods*](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A808842&dswid=4
 Master's thesis, KTH Royal Institute of Technology. Stockholm, Sweden, 2015.
 
 ### Other:
+
+* Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
+  *Estimating Private Beliefs Based on Observed Decisions*. Poster at the 2019 Workshop of
+the European Research Network on System Identification (ERNSI), September, Maastricht, the
+Netherlands.
 
 * Robert Mattila, Cristian R. Rojas, Eric Moulines, Vikram Krishnamurthy and Bo Wahlberg,
   *Method of Moment Estimation of Hidden Markov Models*. Poster at the 2018 Workshop of the
