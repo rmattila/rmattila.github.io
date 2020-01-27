@@ -44,8 +44,9 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 
 * Robert Mattila, Inês Lourenço, Vikram Krishnamurthy, Cristian R. Rojas and Bo Wahlberg,
   [*What Did Your Adversary Believe? Optimal Filtering and Smoothing in
-Counter-Adversarial Autonomous Systems*](https://arxiv.org/pdf/1910.07332.pdf). Submitted
-(arXiv preprint). 
+Counter-Adversarial Autonomous Systems*](https://arxiv.org/pdf/1910.07332.pdf).
+In the 45th IEEE International Conference on Acoustics, Speech, and Signal
+Processing (ICASSP'20), Barcelona, Spain, 2020.
 
 * Robert Mattila, Inês Lourenço, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg,
   [*Estimating Private Beliefs of Bayesian Agents Based on Observed
