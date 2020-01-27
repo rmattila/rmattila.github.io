@@ -32,7 +32,7 @@ learning and optimization.
 ## PhD Courses
 * [Partially Observed Markov Decision
 Processes](http://people.kth.se/~bo/Vikram/Course.html): From Filtering to Control by Prof. [Vikram
-Krishnamurthy](https://tech.cornell.edu/people/vikram-krishnamurthy)
+Krishnamurthy](https://vikram.ece.cornell.edu/)
 * [SF2972](https://www.kth.se/student/kurser/kurs/SF2972?l=en) Game Theory
 * [FEL3370](http://people.kth.se/~crro/Math_Methods/Course.html) Mathematical Methods in Signals, Systems and Control
 * AK3012 Supplementary Course in Theory and Methodology of Science
