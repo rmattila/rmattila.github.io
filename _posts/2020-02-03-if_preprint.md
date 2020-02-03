@@ -31,7 +31,7 @@ an autonomous filtering and control system that:
 
 Based on observations of the enemy's actions and knowledge of our own state sequence, we
 estimate the accuracy of the enemy’s sensors -- this forms a foundation for predicting,
-taking appropriate measures against, its future actions.
+and taking appropriate measures against, its future actions.
 
 Have a look, and feel free to send me any comments you may have by email!
 
