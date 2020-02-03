@@ -21,6 +21,11 @@ title: Publications
 
 Here is a list of my work:
 
+### Pre-Prints:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
+  Filtering for Hidden Markov Models with Applications to Counter-Adversarial Autonomous
+Systems](https://arxiv.org/pdf/2001.11809.pdf)*. arXiv, 2020.
 
 ### Journals:
 
