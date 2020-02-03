@@ -19,8 +19,7 @@ filter](https://en.wikipedia.org/wiki/Recursive_Bayesian_estimation), we seek to
 *ii)* the accuracy of the sensors and *iii)* the measured observations. 
 
 We also discuss the design of counter-adversarial systems. As in our [ICASSP'20
-paper](https://rmattila.github.io/2019/10/18/preprint/), the setup is that an enemy deploys
-an autonomous filtering and control system that:
+paper](https://rmattila.github.io/2019/10/18/preprint/), the setup is that an enemy:
 
 1. measures our current state [via a noisy
    sensor](https://en.wikipedia.org/wiki/Hidden_Markov_model), 
