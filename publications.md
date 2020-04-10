@@ -23,9 +23,13 @@ Here is a list of my work:
 
 ### Pre-Prints:
 
+* Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, *[How to Protect Your
+  Privacy?  A Framework for Counter-Adversarial Decision
+Making](https://arxiv.org/pdf/2004.04119.pdf)*, 2020.
+
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
   Filtering for Hidden Markov Models with Applications to Counter-Adversarial Autonomous
-Systems](https://arxiv.org/pdf/2001.11809.pdf)*. arXiv, 2020.
+Systems](https://arxiv.org/pdf/2001.11809.pdf)*, 2020.
 
 ### Journals:
 
