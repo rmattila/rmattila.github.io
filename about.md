@@ -26,8 +26,8 @@ Institute of Technology (Caltech)](http://www.caltech.edu), the [University of B
 Colombia (UBC)](https://www.ubc.ca) and [Cornell Tech](https://tech.cornell.edu). My
 research interests are within inference and control of stochastic dynamical systems (in
 particular of [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)),
-as well as real-world applications -- for example to medicine and health-care -- of machine
-learning and optimization.
+as well as real-world applications of machine learning and optimization (e.g., in medicine
+and health-care). In June 2020, I was awarded my PhD degree.
 
 ## PhD Courses
 * [Partially Observed Markov Decision
