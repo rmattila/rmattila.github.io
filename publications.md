@@ -10,8 +10,8 @@ title: Publications
   Applications*](https://kth.diva-portal.org/smash/get/diva2:1428900/FULLTEXT01.pdf)
     * PhD thesis, 2020.
 
-* *Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
-Correlations*
+* [*Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
+Correlations*](https://proceedings.icml.cc/static/paper_files/icml/2020/3896-Paper.pdf)
     * In ICML, 2020.
 
 * *[Inverse Filtering for Hidden Markov
@@ -57,8 +57,9 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 ### Conferences:
 
 * Robert Mattila, Cristian R. Rojas, Eric Moulines, Vikram Krishnamurthy, and Bo Wahlberg,
-  *Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
-Correlations*. In the 37th International Conference on Machine Learning (**ICML'20**), 2020.
+  [*Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
+Correlations*](https://proceedings.icml.cc/static/paper_files/icml/2020/3896-Paper.pdf).
+In the 37th International Conference on Machine Learning (**ICML'20**), 2020.
 
 * Robert Mattila, Inês Lourenço, Vikram Krishnamurthy, Cristian R. Rojas and Bo Wahlberg,
   [*What Did Your Adversary Believe? Optimal Filtering and Smoothing in
