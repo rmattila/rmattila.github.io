@@ -30,13 +30,14 @@ Here is a list of my work:
 
 ### Pre-Prints:
 
-* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
-  Filtering for Hidden Markov Models with Applications to Counter-Adversarial Autonomous
-Systems](https://arxiv.org/pdf/2001.11809.pdf)*, 2020. Accepted, and to be published, in the
-[IEEE Transactions on Signal
-Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing).
 
 ### Journals:
+
+* Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
+  Filtering for Hidden Markov Models with Applications to Counter-Adversarial Autonomous
+Systems](https://arxiv.org/pdf/2001.11809.pdf)*, 2020. Accepted for the [IEEE Transactions
+on Signal
+Processing](https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing).
 
 * Roberto G. Ramírez-Chavarría, Matias I. Müller, Robert Mattila, Gustavo
   Quintana-Carapia, Celia Sánchez-Pérez, [*A Framework for High-Resolution Frequency
