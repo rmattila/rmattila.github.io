@@ -3,7 +3,8 @@ layout: page
 title: Projects
 ---
 
-Various (possibly non-research related) projects.
+Below are some non-research related projects. For research projects, please see the
+[publications](/publications).
 
 <hr>
 
