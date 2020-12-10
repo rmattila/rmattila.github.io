@@ -13,7 +13,7 @@ See also my <a href="https://scholar.google.com/citations?user=IaRmGkgAAAAJ&hl=e
     * PhD thesis, 2020.
 
 * [*Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
-Correlations*](https://proceedings.icml.cc/static/paper_files/icml/2020/3896-Paper.pdf)
+Correlations*](http://proceedings.mlr.press/v119/mattila20a/mattila20a.pdf)
     * In ICML, 2020.
 
 * *[Inverse Filtering for Hidden Markov
@@ -64,7 +64,7 @@ and Control (CDC'20), Jeju Island, Republic of Korea, 2020.
 
 * Robert Mattila, Cristian R. Rojas, Eric Moulines, Vikram Krishnamurthy, and Bo Wahlberg,
   [*Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive
-Correlations*](https://proceedings.icml.cc/static/paper_files/icml/2020/3896-Paper.pdf).
+Correlations*](http://proceedings.mlr.press/v119/mattila20a/mattila20a.pdf).
 In the 37th International Conference on Machine Learning (**ICML'20**), 2020.
 
 * Robert Mattila, Inês Lourenço, Vikram Krishnamurthy, Cristian R. Rojas and Bo Wahlberg,
