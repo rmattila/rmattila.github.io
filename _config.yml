@@ -24,3 +24,5 @@ paginate:         5
 # Custom vars
 cover_image:      /public/me2.png
 
+# separator for teaser and content
+excerpt_separator: "<!--more-->"
