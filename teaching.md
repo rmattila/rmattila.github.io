@@ -4,6 +4,13 @@ title: Teaching
 ---
 
 <hr>
+## 2020
+
+### Master Thesis
+
+Supervisor for Karl Hemlin.
+
+<hr>
 ## 2018
 
 ### EL2805 Reinforcement Learning
