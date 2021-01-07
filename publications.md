@@ -30,6 +30,9 @@ Here is a list of my work:
 
 ### Pre-Prints:
 
+* Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, *Cooperative System
+  Identification via Correctional Learning*. [arXiv
+pre-print](https://arxiv.org/pdf/2012.05161.pdf), 2020.
 
 ### Journals:
 
