@@ -27,7 +27,7 @@ isochrones (and, in turn, the relocation problem) is somewhat non-trivial.
  A quick Google search shows that there are several services available that can plot
 isochrones, but, as far as I can tell, most of these are based on transportation by
 bicycle or car (e.g., [RouteWare](https://www.routeware.dk/) and
-[Iso4App](http://www.iso4app.net/)). The ones that includes travel by train or public
+[Iso4App](http://www.iso4app.net/)). The ones that include travel by train or public
 transport are either specific to larger cities in Europe (e.g., [Tom
 Carden](http://www.tom-carden.co.uk/p5/tube_map_travel_times/applet/) and
 [Mapumental](https://www.mysociety.org/2007/03/05/more-travel-time-maps-and-their-uses/)
