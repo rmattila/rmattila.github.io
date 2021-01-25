@@ -8,6 +8,24 @@ Below are some non-research related projects. For research projects, please see 
 
 <hr>
 
+### Isochrones in Stockholm
+
+<br>
+<p align="center">
+    <a href="/2021/01/15/isochrones/"><img width="475" src="/img/isochrones/header_code2.png"></a>
+</p>
+<br>
+
+Just because two points are close on a map does not mean that they are "close in time" --
+the time to travel from one location to another depends on, e.g., the location of roads
+and public transport. In this post, we compute and plot
+[isochrones](https://en.wikipedia.org/wiki/Isochrone_map) in Stockholm, when traveling
+using public transport.
+
+[**Read more**](/2021/01/15/isochrones/)
+
+<hr>
+
 ### MDP-Explore 
 
 [![MDP-Explore Screenshot](https://rmattila.github.io/img/mdp-explore2.png)](https://github.com/rmattila/MDP-Explore)
