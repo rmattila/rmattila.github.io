@@ -57,7 +57,7 @@ Efficient Identification of Known-Sensor Hidden Markov
 Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing Letters,
 2017, 24.12: 1813-1817. 
 
-### Conferences:
+### Peer-Reviewed Conferences:
 
 
 * Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, *[How to Protect Your
