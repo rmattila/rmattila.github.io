@@ -4,13 +4,20 @@ title: About
 ---
 
 ## Contact 
+<del>
 Division of Decision and Control Systems \\
 KTH Royal Institute of Technology \\
 Malvinas väg 10, floor 6 \\
 114 28 Stockholm, Sweden 
+</del>
 
+<del>
 The easiest way to reach me is by visiting room A:633 at the adress above, or
 sending an email to <b>rmattila(a)kth.se</b>.
+</del>
+
+To be updated -- if you want to reach me, send me a message on
+[LinkedIn](https://se.linkedin.com/in/robert-mattila-370064a4).
 
 ## Bio
 
@@ -27,7 +34,8 @@ Colombia (UBC)](https://www.ubc.ca) and [Cornell Tech](https://tech.cornell.edu)
 research interests are within inference and control of stochastic dynamical systems (in
 particular of [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)),
 as well as real-world applications of machine learning and optimization (e.g., in medicine
-and health-care). In June 2020, I was awarded my PhD degree.
+and health-care). In June 2020, I was awarded my PhD degree. I am currently employed as
+a data scientist at [SEB Analytics](https://seb.se/).
 
 ## PhD Courses
 * [Partially Observed Markov Decision
