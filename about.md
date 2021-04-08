@@ -16,7 +16,7 @@ The easiest way to reach me is by visiting room A:633 at the adress above, or
 sending an email to <b>rmattila(a)kth.se</b>.
 </del>
 
-To be updated -- if you want to reach me, send me a message on
+To be updated -- if you want to contact me, send me a message on
 [LinkedIn](https://se.linkedin.com/in/robert-mattila-370064a4).
 
 ## Bio
