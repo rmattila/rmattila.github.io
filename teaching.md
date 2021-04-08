@@ -8,7 +8,11 @@ title: Teaching
 
 ### Master Thesis
 
-Supervisor for Karl Hemlin.
+Supervisor of Karl Hemlin.
+
+### EL1000 Automatic Control 
+
+Teacher Assistant -- see notes from 2015 below.
 
 <hr>
 ## 2018
@@ -62,7 +66,7 @@ and
 
 ### Master Thesis
 
-Supervisor for Daniel Merkoulova.
+Supervisor of Daniel Merkoulova.
 
 <hr>
 ## 2016
