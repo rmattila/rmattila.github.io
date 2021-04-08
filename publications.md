@@ -33,10 +33,6 @@ Here is a list of my work:
 * Inês Lourenço, Robert Mattila, Rodrigo Ventura and Bo Wahlberg. *A Biologically-Inspired
   Computational Model of Time Perception*, 2021.
 
-* Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, *Cooperative System
-  Identification via Correctional Learning*. [arXiv
-pre-print](https://arxiv.org/pdf/2012.05161.pdf), 2020.
-
 ### Journals:
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
@@ -62,6 +58,9 @@ Models*](http://ieeexplore.ieee.org/document/8060991/).  IEEE Signal Processing 
 
 ### Peer-Reviewed Conferences:
 
+* Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, [*Cooperative System
+  Identification via Correctional Learning*](https://arxiv.org/pdf/2012.05161.pdf).  In
+the 19th IFAC Symposium System Identification (SYSID’21), 2021.
 
 * Inês Lourenço, Robert Mattila, Cristian R. Rojas and Bo Wahlberg, *[How to Protect Your
   Privacy?  A Framework for Counter-Adversarial Decision
