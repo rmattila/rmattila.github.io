@@ -56,7 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  /* color: rgba(255,255,255,.5); */
+  color: rgba(0,0,0,.5);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -251,7 +252,7 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-ff .sidebar {
-  background-color: #1954a6;
+  background-color: #ffffff; /* KTH BLUE: 1954a6; */
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
@@ -259,17 +260,17 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-base-ff .sidebar a {
-  color: #fff;
+  color: #000;
 }
 
 .theme-base-ff .sidebar-about h1 {
-  color: #fff;
+  color: #000;
   margin-top: 0;
   font-family: "PT Sans";
   font-size: 1.9rem;
 }
 
 .theme-base-ff .sidebar-nav-item {
-    color: #ddd;
+    color: #777;
 }
 
