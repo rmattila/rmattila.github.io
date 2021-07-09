@@ -34,7 +34,7 @@ Here is a list of my work:
   Computational Model of Time Perception*, 2021.
 
 * Inês Lourenço, Robert Mattila, Cristian R. Rojas, Xiaoming Hu and Bo Wahlberg. *Hidden
-  Markov models: Inverse filtering, belief estimation and privacy protection*, 2021.
+  Markov Models: Inverse Filtering, Belief Estimation and Privacy Protection*, 2021.
 
 ### Journals:
 
