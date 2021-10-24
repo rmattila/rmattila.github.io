@@ -30,13 +30,15 @@ Here is a list of my work:
 
 ### Pre-Prints:
 
-* Inês Lourenço, Robert Mattila, Rodrigo Ventura and Bo Wahlberg. *A Biologically-Inspired
-  Computational Model of Time Perception*, 2021.
-
 * Inês Lourenço, Robert Mattila, Cristian R. Rojas, Xiaoming Hu and Bo Wahlberg. *Hidden
   Markov Models: Inverse Filtering, Belief Estimation and Privacy Protection*, 2021.
 
 ### Journals:
+
+* Inês Lourenço, Robert Mattila, Rodrigo Ventura and Bo Wahlberg. *[A
+  Biologically-Inspired Computational Model of Time
+Perception](https://ieeexplore.ieee.org/document/9570769)*. IEEE Transactions on Cognitive
+and Developmental Systems, 2021.
 
 * Robert Mattila, Cristian R. Rojas, Vikram Krishnamurthy and Bo Wahlberg, *[Inverse
   Filtering for Hidden Markov Models with Applications to Counter-Adversarial Autonomous
