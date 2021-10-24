@@ -3,20 +3,11 @@ layout: page
 title: About
 ---
 
+See my <a href="/public/cv_mattila.pdf">curriculum vitae</a> for more information.
+
 ## Contact 
-<del>
-Division of Decision and Control Systems \\
-KTH Royal Institute of Technology \\
-Malvinas väg 10, floor 6 \\
-114 28 Stockholm, Sweden 
-</del>
 
-<del>
-The easiest way to reach me is by visiting room A:633 at the adress above, or
-sending an email to <b>rmattila(a)kth.se</b>.
-</del>
-
-To be updated -- if you want to contact me, send me a message on
+If you want to get in touch with me, send me a message on
 [LinkedIn](https://se.linkedin.com/in/robert-mattila-370064a4).
 
 ## Bio
@@ -27,7 +18,7 @@ with an MSc in [Systems, Control and
 Robotics](https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733)
 and began as a PhD student at the [Division of Decision and Control
 Systems](https://www.kth.se/dcs/) the same year under the supervision of Prof. [Bo
-Wahlberg](http://people.kth.se/~bo/) and co-supervision of Assoc. Prof. [Cristian R.
+Wahlberg](http://people.kth.se/~bo/) and co-supervision of Prof. [Cristian R.
 Rojas](https://people.kth.se/~crro/). I have been a visiting researcher at the [California
 Institute of Technology (Caltech)](http://www.caltech.edu), the [University of British
 Colombia (UBC)](https://www.ubc.ca) and [Cornell Tech](https://tech.cornell.edu). My
