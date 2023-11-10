@@ -4,11 +4,30 @@ title: Teaching
 ---
 
 <hr>
+## 2023
+
+### Master Thesis
+
+Supervisor of Giorgio Sacchi ("*Explainable AI for Finance: Adaptive Sampling for Counterfactual Explanations*")
+
+<hr>
+## 2022
+
+### Master Thesis
+
+Supervisor of Johan Hammarstedt ("*Synthetic Graph Generation at Scale: A novel framework for generating large graphs using
+clustering, generative models and node embeddings*")
+
+### Master Thesis
+
+Supervisor of Erik Lundin ("*Generating Directed & Weighted Synthetic Graphs using Low-Rank Approximations*")
+
+<hr>
 ## 2020
 
 ### Master Thesis
 
-Supervisor of Karl Hemlin.
+Supervisor of Karl Hemlin ("*Improved Fuel Supply for Water-to-Air Heaters in Scania Trucks*").
 
 ### EL1000 Automatic Control 
 
@@ -66,7 +85,7 @@ and
 
 ### Master Thesis
 
-Supervisor of Daniel Merkoulova.
+Supervisor of Daniel Merkoulova ("*Optimal Input Design by Model Predictive Control for System Identification*")
 
 <hr>
 ## 2016
