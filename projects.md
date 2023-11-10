@@ -42,10 +42,10 @@ Originally developed for arXiv papers, `arXamination` now supports papers from a
 Just because two points are close on a map does not mean that they are "close in time" --
 the time to travel from one location to another depends on, e.g., the location of roads
 and public transport. In this post, we compute and plot
-[isochrones](https://en.wikipedia.org/wiki/Isochrone_map) in Stockholm, when traveling
+[isochrones](https://en.wikipedia.org/wiki/Isochrone_map) in Stockholm when traveling
 using public transport.
 
-[**Read more**](/2021/01/15/isochrones/)
+**Link:** [**Read more**](/2021/01/15/isochrones/)
 
 <hr>
 
@@ -66,9 +66,12 @@ exported as a pdf-file.
 
 [![KIBok.se](https://rmattila.github.io/img/kibok.png)](http://www.kibok.se)
 
-This is a page for buying and selling used medical textbooks, aimed for students at the
-[Karolinska Institute](http://www.ki.se). The website was developed using Python and
-[Django](https://www.djangoproject.com), and has been running since 2013.
+**KIBok.se** was a website for buying and selling used medical textbooks,
+targeting students at the [Karolinska Institute](http://www.ki.se) in
+Stockholm. The website was developed using Python and
+[Django](https://www.djangoproject.com), and was online from 2013 to 2019.
+The website had an average of 60 unique daily visitors and around 700 books for
+sale when it was retired.
 
-**Link**: [http://kibok.se](http://www.kibok.se)
+**Link**: [~~http://kibok.se~~]()
 
