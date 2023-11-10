@@ -8,6 +8,29 @@ Below are some non-research related projects. For research projects, please see 
 
 <hr>
 
+### arXaminator
+_Efficient first-pass examination of academic papers for essential research quality indicators_
+
+<p align="center">
+    <a href="https://github.com/rmattila/arXamination"><img src="https://github.com/rmattila/arXamination/blob/main/screenshot.png?raw=true"></a>
+</p>
+
+`arXamination` is a tool designed to aid in the quick review of academic papers. It uses a [_large language model (LLM)_](https://en.wikipedia.org/wiki/Large_language_model) to provide insights into research papers, helping to assess their relevance and quality efficiently.
+
+Originally developed for arXiv papers, `arXamination` now supports papers from any URL or local PDF files, broadening its usability -- this enables users to analyze a wider range of academic documents easily.
+
+**Key aspects:**
+
+- Analyzes research papers from various sources.
+- Utilizes LLMs like [GPT4All](https://gpt4all.io/index.html) or [OpenAI's GPT models](https://openai.com/product).
+- Offers a command-line interface for ease of use.
+
+`arXamination` is suitable for anyone needing a quick yet thorough understanding of a research paper.
+
+**Link**: [https://github.com/rmattila/arXamination](https://github.com/rmattila/arXamination)
+
+<hr>
+
 ### Isochrones in Stockholm
 
 <br>
