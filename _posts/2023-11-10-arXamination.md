@@ -8,8 +8,8 @@ title: arXamination for Efficient Paper Reviews
 </p>
 
 I'm happy to share my latest project, `arXamination`, a handy tool to assist in
-the review of academic papers. Using [_large language models
-(LLMs)_](https://en.wikipedia.org/wiki/Large_language_model), it helps in
+the review of academic papers. Using [large language models
+(LLMs)](https://en.wikipedia.org/wiki/Large_language_model), it helps in
 quickly identifying key insights and gauging the relevance of research papers.
 Initially tailored for arXiv pre-prints, `arXamination` now also processes
 documents from any URL or local PDF, offering greater flexibility. Whether

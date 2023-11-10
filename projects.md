@@ -15,7 +15,7 @@ _Efficient first-pass examination of academic papers for essential research qual
     <a href="https://github.com/rmattila/arXamination"><img src="https://raw.githubusercontent.com/rmattila/arXamination/main/screenshot.png"></a>
 </p>
 
-`arXamination` is a tool designed to aid in the quick review of academic papers. It uses a [_large language model (LLM)_](https://en.wikipedia.org/wiki/Large_language_model) to provide insights into research papers, helping to assess their relevance and quality efficiently.
+`arXamination` is a tool designed to aid in the quick review of academic papers. It uses a [large language model (LLM)](https://en.wikipedia.org/wiki/Large_language_model) to provide insights into research papers, helping to assess their relevance and quality efficiently.
 
 Originally developed for arXiv papers, `arXamination` now supports papers from any URL or local PDF files, broadening its usability -- this enables users to analyze a wider range of academic documents easily.
 
