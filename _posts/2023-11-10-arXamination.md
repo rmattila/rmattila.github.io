@@ -4,7 +4,7 @@ title: arXamination for Efficient Paper Reviews
 ---
 
 <p align="center">
-    <img width="450" src="img/arxaminator_computer.jpg">
+    <img width="450" src="img/arxamination_computer.jpg">
 </p>
 
 I'm happy to share my latest project, `arXamination`, a handy tool to assist in
