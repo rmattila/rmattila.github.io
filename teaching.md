@@ -10,6 +10,10 @@ title: Teaching
 
 Supervisor of Giorgio Sacchi ("*Explainable AI for Finance: Adaptive Sampling for Counterfactual Explanations*")
 
+### Generative AI Bootcamp
+
+[SEBx](https://sebx.io/), [Combient (Mix)](https://combient.com/mix) and [WARA Media and Language](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/) partnered with [NVIDIA](https://www.nvidia.com/) to offer a [Gen AI Bootcamp](https://www.openhackathons.org/s/siteevent/a0C5e000008dSj2EAE/se000276).
+
 <hr>
 ## 2022
 
