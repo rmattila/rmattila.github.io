@@ -10,9 +10,19 @@ title: Teaching
 
 Supervisor of Giorgio Sacchi ("*Explainable AI for Finance: Adaptive Sampling for Counterfactual Explanations*")
 
-### Generative AI Bootcamp
+### Generative AI Bootcamp (August)
 
 [SEBx](https://sebx.io/), [Combient (Mix)](https://combient.com/mix) and [WARA Media and Language](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/) partnered with [NVIDIA](https://www.nvidia.com/) to offer a [Gen AI Bootcamp](https://www.openhackathons.org/s/siteevent/a0C5e000008dSj2EAE/se000276).
+
+### Guest Lecturer in KTH's AI Course
+
+Invited to [DD2380 Artificial Intelligence](https://www.kth.se/student/kurser/kurs/DD2380?l=en) to give a lecture on [LLMs](https://en.wikipedia.org/wiki/Large_language_model) and [retrieval-augmented generation (RAG)](https://arxiv.org/abs/2005.11401):
+
+<p align="center">
+<img src="../img/rag_overview.jpg" style="border: 1px solid #BBB; padding: 10px;" width="590">
+<i>Modern Information Retrieval with Large Language Models:<br> Architecture, Challenges and Opportunities</i>
+</p>
+
 
 <hr>
 ## 2022
