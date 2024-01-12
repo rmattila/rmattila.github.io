@@ -86,7 +86,7 @@ of purchasing regular notebooks.
 
 <p align="center">
     <img width="500" src="https://notizbuchmagie.de/wp-content/uploads/2019/06/midori-travelers-notebook-notizbuchmagie-10.jpg">
-    <i>A Traveler's (Midori) notebook with four inserts.</i>
+    <i>A Traveler's (Midori) notebook with four inserts (source: <a href="https://notizbuchmagie.de/material/midori-travelers-notebook/">notizbuchmagie.de</a>).</i>
 </p>
 
 The crucial benefit of this type of notebook is the modularity it allows:
@@ -98,7 +98,7 @@ modularity perfectly addresses the two annoyances I mentioned above.
 
 In particular, what I've converged on is the following setup, which employs four separate inserts.
 
-![png](/img/tnbujo/schematic.png)
+[![png](/img/tnbujo/schematic.png)](/img/tnbujo/schematic.png)
 
 What usually consumes the most number of pages in a notebook is the daily log
 -- it's written to every day. Having the daily log in a separate insert allows
@@ -120,7 +120,7 @@ To give you an idea of the content of each insert, this is basically how they lo
 The future log occupies the few spreads in this insert. It simply lists all months of the year and below, their events and tasks. At the beginning of each month, the month's items are migrated to the corresponding weekly spreads, which are created at the same time.
 
 <p align="center">
-    <img width="540" src="/img/tnbujo/future.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
+    <a href="/img/tnbujo/future.png"><img width="540" src="/img/tnbujo/future.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
     <i>Basic future log.</i>
 </p>
 
@@ -132,7 +132,7 @@ page, the names and dates of the seven days, and then "This week" as a header
 on the right page.
 
 <p align="center">
-    <img width="540" src="/img/tnbujo/weekly.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
+    <a href="/img/tnbujo/weekly.png"><img width="540" src="/img/tnbujo/weekly.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
     <i>Basic weekly spread.</i>
 </p>
 
@@ -143,7 +143,7 @@ using the standard symbols (⋅, o, -, >, etc. -- see [Carroll's
 book](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338)).
 
 <p align="center">
-    <img width="540" src="/img/tnbujo/daily.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
+    <a href="/img/tnbujo/daily.png"><img width="540" src="/img/tnbujo/daily.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
     <i>Standard daily log.</i>
 </p>
 
@@ -161,14 +161,14 @@ content dependent.
 
 ## Conclusion
 
-Encountering the [Bullet Journal
-method](https://bulletjournal.com/)
-was a quantum leap forward for my note taking and organization. The method is very
-effective out-of-the-box -- it was many times better than my (non-existent)
-system at the time. Its very fluid and can be adapted to what your present
-situation demands. After having used it for more than half a decade, my key tip is
-"keep it simple". Get rid of what you don't find useful and condense the system
-to something that supports your productivity and organization. 
+Encountering the [Bullet Journal method](https://bulletjournal.com/) was a
+quantum leap forward for my personal and professional note taking and
+organization. The method is very effective out-of-the-box -- it was many times
+better than my (non-existent) system at the time. Its very fluid and can be
+adapted to what your present situation demands. After having used it for more
+than half a decade, my key tip is "keep it simple". Get rid of what you don't
+find useful and condense the system to something that supports your
+productivity and organization. 
 
 In particular, make it easy to set up new weekly spreads (keep them minimal, as
 shown above). Also, consider using a modular notebook system like a [Traveler's
