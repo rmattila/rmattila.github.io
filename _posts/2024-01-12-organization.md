@@ -18,7 +18,7 @@ Long before that, Albert Einstein expressed a similar thought:
 > "Paper is to write things down that we need to remember. Our brains are used to think."
 
 These observations resonate with me -- it's easy to get overwhelmed if you have
-too many reminders, events and ideas all fighting for your attention. My solution
+too many reminders, events and ideas in your head all fighting for your attention. My solution
 has been to follow their advice and dump all those things on pieces of paper,
 freeing up my head for thinking. 
 
@@ -126,7 +126,7 @@ The future log occupies the few spreads in this insert. It simply lists all mont
 
 The weekly spread is also kept simple and minimalistic. On the left page, the
 days of the week are listed together with day-specific events, tasks or notes;
-and the right page keeps a running todo list of that weeks items. It takes 20
+and the right page keeps a running todo list of that week's items. It takes 20
 seconds to set this spread up: write the month and year at the top of left
 page, the names and dates of the seven days, and then "This week" as a header
 on the right page.
@@ -164,7 +164,7 @@ content dependent.
 Encountering the [Bullet Journal method](https://bulletjournal.com/) was a
 quantum leap forward for my personal and professional note taking and
 organization. The method is very effective out-of-the-box -- it was many times
-better than my (non-existent) system at the time. Its very fluid and can be
+better than my (non-existent) system at the time. It's very fluid and can be
 adapted to what your present situation demands. After having used it for more
 than half a decade, my key tip is "keep it simple". Get rid of what you don't
 find useful and condense the system to something that supports your
