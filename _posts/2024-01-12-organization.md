@@ -100,30 +100,6 @@ In particular, what I've converged on is the following setup, which employs four
 
 ![png](/img/tnbujo/schematic.png)
 
-```mermaid
-graph TD
-    A[Traveler's Notebook] -->|Insert 1| B[Future Log & Weekly Spread]
-    A -->|"Insert 2<br>(replaced frequently)"| C[Work Daily Log]
-    A -->|"Insert 3<br>(replaced frequently)"| D[Personal Daily Log]
-    A -->|Insert 4| E[Collections]
-    
-    B -->|Organizes| F[Short- and Long-Term Planning]
-    C -->|Tracks| G[Work Tasks, Meetings and Notes]
-    D -->|Records| H[Personal Reflections]
-    E -->|Holds| I[Projects, Lists and Ideas]
-    D -->|Migrated| E
-
-    B <-.-> C
-    B <-.-> D
-
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#fcf,stroke:#333,stroke-width:2px
-    style D fill:#cff,stroke:#333,stroke-width:2px
-    style E fill:#ffc,stroke:#333,stroke-width:2px
-    style A fill:#fff,stroke:#333,stroke-width:4px
-```
-    
-
 What usually consumes the most number of pages in a notebook is the daily log
 -- it's written to every day. Having the daily log in a separate insert allows
 it to be swapped out for a fresh notebook once completed, independent of the
