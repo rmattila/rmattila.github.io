@@ -8,7 +8,7 @@ title: Teaching
 
 ### Master Thesis
 
-Supervisor of Giorgio Sacchi ("*Explainable AI for Finance: Adaptive Sampling for Counterfactual Explanations*")
+Supervisor of Giorgio Sacchi ("[*Explainable AI for Finance: Adaptive Sampling for Counterfactual Explanations*](http://kth.diva-portal.org/smash/get/diva2:1814925/FULLTEXT01.pdf)")
 
 ### Generative AI Bootcamps (August+December)
 
