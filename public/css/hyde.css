@@ -83,7 +83,8 @@ html {
 @media (max-width: 48em) {
   .sidebar-about .sidebar-image {
     max-width: 30%; /* Limits image width to 30% of its flex container */
-    margin-left: 16px;
+    margin-left: 12px;
+    margin-right: 2px;
   }
 
   .sidebar-about .flex-container > div {
