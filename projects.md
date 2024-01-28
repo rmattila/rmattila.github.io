@@ -8,7 +8,24 @@ Below are some non-research related projects. For research projects, please see 
 
 <hr>
 
-### arXaminator
+## text2orthic: Orthic Shorthand Transcriptor
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/rmattila/text2orthic"><img src="https://raw.githubusercontent.com/rmattila/text2orthic/main/resources/demo_generated.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+</p>
+
+<br>
+
+While there exists reading material for the [shorthand](https://en.wikipedia.org/wiki/Shorthand) system devised by [Hugh L. Callendar](https://en.wikipedia.org/wiki/Hugh_Longbourne_Callendar), known as [Orthic shorthand](https://orthic.shorthand.fun/), much of it is quite dated. This project aims to bring a fresh perspective to Orthic shorthand practice by allowing users to transcribe and practice with more contemporary and personally interesting materials. Whether it's the latest news articles, modern literature, or even daily correspondence, this tool opens up new avenues for both learning and enjoying this efficient shorthand system.
+
+**Link:** [https://github.com/rmattila/text2orthic](https://github.com/rmattila/text2orthic) 
+
+
+<hr>
+
+## arXaminator
 _Efficient first-pass examination of academic papers for essential research quality indicators_
 
 <p align="center">
@@ -31,7 +48,7 @@ Originally developed for arXiv papers, `arXamination` now supports papers from a
 
 <hr>
 
-### Isochrones in Stockholm
+## Isochrones in Stockholm
 
 <br>
 <p align="center">
@@ -49,7 +66,7 @@ using public transport.
 
 <hr>
 
-### MDP-Explore 
+## MDP-Explore 
 
 [![MDP-Explore Screenshot](https://rmattila.github.io/img/mdp-explore2.png)](https://github.com/rmattila/MDP-Explore)
 
@@ -62,7 +79,7 @@ exported as a pdf-file.
 
 <hr>
 
-### KIBok.se
+## KIBok.se
 
 [![KIBok.se](https://rmattila.github.io/img/kibok.png)](http://www.kibok.se)
 
