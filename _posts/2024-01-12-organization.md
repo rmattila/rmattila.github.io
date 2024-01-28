@@ -1,12 +1,16 @@
 ---
 layout: post
-title: How I stay organized? 
+title: Some notes on how I stay organized
 hidden: true 
 ---
 
+<br>
+
 <p align="center">
-    <img width="475" src="https://i0.wp.com/penpaperpencil.net/wp-content/uploads/2014/12/Midori-Travelers-notebook-from-the-top-with-all-the-cords.jpg?w=900&ssl=1">
+    <img width="475" src="/img/tnbujo/organized.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
 </p>
+
+<br>
 
 David Allen, the creator of the ["Getting Things Done" (GTD)
 method](https://en.wikipedia.org/wiki/Getting_Things_Done), famously said:
@@ -139,7 +143,7 @@ on the right page.
 ### Insert 2 - Daily Log (Work)
 
 The daily log for work contains notes, minutes of meeting, ideas and todo items
-using the standard symbols (⋅, o, -, >, etc. -- see [Carroll's
+using the standard symbols (`⋅`, `o`, `-`, `>`, etc. -- see [Carroll's
 book](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338)).
 
 <p align="center">
