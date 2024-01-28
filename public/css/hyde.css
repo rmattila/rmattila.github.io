@@ -91,6 +91,13 @@ html {
     flex-grow: 1; /* Allows text div to grow and fill available space */
     text-align: center; /* Centers text */
   }
+  .sidebar {
+    padding-bottom: 0; /* Decrease padding on mobile. The page content is already padded. */
+  }
+  .sidebar hr {
+    margin-top:8px;
+    margin-bottom:8px;
+  } 
 }
 
 /* Styles for larger screens */
