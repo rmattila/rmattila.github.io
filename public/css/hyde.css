@@ -71,6 +71,44 @@ html {
   }
 }
 
+/* BEGIN: Modifications to reflow header image on mobile */
+
+/* Common styles for flex container in sidebar-about */
+.sidebar-about .flex-container {
+  display: flex; /* Establishes a flex container */
+  align-items: center; /* Vertically centers flex items (image and text div) */
+}
+
+/* Styles for mobile view */
+@media (max-width: 48em) {
+  .sidebar-about .sidebar-image {
+    max-width: 30%; /* Limits image width to 30% of its flex container */
+    margin-left: 16px;
+  }
+
+  .sidebar-about .flex-container > div {
+    flex-grow: 1; /* Allows text div to grow and fill available space */
+    text-align: center; /* Centers text */
+  }
+}
+
+/* Styles for larger screens */
+@media (min-width: 48em) {
+  .sidebar-about .flex-container {
+    flex-direction: column; /* Stack flex items vertically */
+  }
+
+  .sidebar-about .sidebar-image {
+    max-width: 100%; /* Allows image to fill its container's width */
+  }
+
+  .sidebar-about .flex-container > div {
+    text-align: left; /* Aligns text to the left */
+  }
+}
+
+/* END: Modifications to reflow header image on mobile */
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;

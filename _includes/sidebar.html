@@ -1,14 +1,18 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-        <center><img src="{{ site.cover_image }}"/></center>
-      <h1>
-        <a href="/{{ site.baseurl }}" style="">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="sidebar-nav-item">{{ site.description }}
-      </br><a href="/public/cv_mattila.pdf">Curriculum vitae</a>
+      <div class="flex-container">
+        <img src="{{ site.cover_image }}" class="sidebar-image"/>
+	<div>
+          <h1>
+            <a href="/{{ site.baseurl }}" style="">
+              {{ site.title }}
+            </a>
+          </h1>
+          <p class="sidebar-nav-item">{{ site.description }}
+          </br><a href="/public/cv_mattila.pdf">Curriculum vitae</a>
+	</div>
+      </div>
       </p>
       
     </div>
